@@ -696,6 +696,7 @@ input {
 
 /*=============== FOOTER ===============*/
 .footer__container {
+  color:  #003c13;
   row-gap: 5rem;
 }
 
